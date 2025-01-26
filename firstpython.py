@@ -1,0 +1,2 @@
+#MOSTRAR
+print("Hola Python")
